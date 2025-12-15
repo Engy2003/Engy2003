@@ -157,7 +157,6 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
 
 ---
 
-<h2 align="center">📈 GitHub Activity</h2>
 <h2 align="center">🐍 My Coding Activity</h2>
 <div align="center">
   <a href="https://github.com/Engy2003/Engy2003/generate">
