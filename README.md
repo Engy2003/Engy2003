@@ -10,7 +10,9 @@
   <h3>Data Analyst | Business Intelligence Specialist</h3>
 
   <p>
-A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming complex data into <b>clear, strategic assets</b>. I specialize in empowering businesses to make confident decisions by uncovering hidden trends, optimizing operational efficiency, and driving measurable growth. My focus is on bridging the gap between raw numbers and actionable business strategies to solve real-world challenges.
+    A results-driven <b>Data Analyst</b> (B.S. in Data Science) dedicated to transforming complex data into <code>strategic assets</code>. <br>
+    I specialize in empowering businesses to make confident decisions by uncovering hidden trends, optimizing operational efficiency, and driving measurable growth.<br>
+    My focus is on bridging the gap between raw numbers and actionable business strategies to solve real-world challenges.
   </p>
 
   <p>
@@ -46,10 +48,10 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">Customer Segmentation (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">💠 Customer Segmentation (ML)</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">
-          <img src="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis/blob/main/RFMT_CFMT_Dashboard_Image.png" width="100%" alt="Customer Segmentation" />
+          <img src="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis/blob/main/RFMT_CFMT_Dashboard_Image.png" height="180" alt="Customer Segmentation" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
@@ -58,81 +60,73 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">AdventureWorks Sales Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">💠 AdventureWorks Sales</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">
-          <img src="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard/blob/main/Images/Time%20Analysis.png" width="100%" alt="AdventureWorks" />
+          <img src="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard/blob/main/Images/Time%20Analysis.png" height="180" alt="AdventureWorks" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
         <img src="https://img.shields.io/badge/Data%20Modeling-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">Hospital ER Patient Analytics</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">💠 Hospital ER Analytics</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">
-          <img src="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard.png" width="100%" alt="ER Patients" />
+          <img src="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard.png" height="180" alt="ER Patients" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
         <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Healthcare-red?style=flat-square" />
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">Call Center Performance</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">💠 Call Center Performance</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">
-          <img src="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard1.png" width="100%" alt="Call Center" />
+          <img src="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard1.png" height="180" alt="Call Center" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
-        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Call Center-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/KPIs-orange?style=flat-square" />
       </div>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">Project Management Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">💠 Project Management</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">
-          <img src="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard/blob/main/Images/Timeline.png" width="100%" alt="Project Management" />
+          <img src="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard/blob/main/Images/Timeline.png" height="180" alt="Project Management" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
-        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Management-blue?style=flat-square" />
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">Sales & Profit Analysis</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">💠 Sales & Profit Analysis</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">
-          <img src="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard/blob/main/Dashboard.png" width="100%" alt="Sales Profit" />
+          <img src="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard/blob/main/Dashboard.png" height="180" alt="Sales Profit" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
-        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Viz-green?style=flat-square" />
       </div>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">Amazon Logistics (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">💠 Amazon Logistics (ML)</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">
-          <img src="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard/blob/main/Images/Dashboard.png" width="100%" alt="Amazon Logistics" />
+          <img src="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard/blob/main/Images/Dashboard.png" height="180" alt="Amazon Logistics" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
@@ -141,15 +135,14 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">Sales Data Pipeline</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">💠 Sales Data Pipeline</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">
-          <img src="https://github.com/Engy2003/Sales_Analysis_Excel_Project/blob/main/Sales%20Dashboard.png" width="100%" alt="Sales Pipeline" />
+          <img src="https://github.com/Engy2003/Sales_Analysis_Excel_Project/blob/main/Sales%20Dashboard.png" height="180" alt="Sales Pipeline" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Pivot-grey?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -157,7 +150,6 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
 
 ---
 
-<h2 align="center">📈 GitHub Activity</h2>
 <h2 align="center">🐍 My Coding Activity</h2>
 <div align="center">
   <a href="https://github.com/Engy2003/Engy2003/generate">
