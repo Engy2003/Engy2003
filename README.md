@@ -154,7 +154,13 @@
 ---
 
 <h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">🐍 My Coding Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engy2003&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engy2003&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <a href="https://github.com/Engy2003/Engy2003/generate">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Engy2003/Engy2003/raw/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Engy2003/Engy2003/raw/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/Engy2003/Engy2003/raw/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
