@@ -10,9 +10,9 @@
   <h3>Data Analyst | Business Intelligence Specialist</h3>
 
   <p>
-    Data Analyst with a BS in Data Science from Alexandria University. <br>
-    I transform raw data into actionable business insights using <b>Python, SQL, Excel, and Power BI</b>.<br>
-    Experienced in building end-to-end data pipelines, interactive dashboards, and ML models.
+    A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming complex data into <b>clear, strategic assets</b>.<br>
+    I specialize in empowering businesses to make confident decisions by uncovering hidden trends, optimizing operational efficiency, and driving measurable growth.<br>
+    My focus is on bridging the gap between raw numbers and actionable business strategies to solve real-world challenges.
   </p>
 
   <p>
