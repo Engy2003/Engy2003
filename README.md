@@ -42,10 +42,10 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_1">Customer Segmentation (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">Customer Segmentation (ML)</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_1">
-          <img src="IMAGE_LINK_1" width="100%" alt="Customer Segmentation" />
+        <a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">
+          <img src="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis/blob/main/RFMT_CFMT_Dashboard_Image.png" width="100%" alt="Customer Segmentation" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
@@ -54,73 +54,81 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_2">AdventureWorks Sales Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">AdventureWorks Sales Dashboard</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_2">
-          <img src="IMAGE_LINK_2" width="100%" alt="AdventureWorks" />
+        <a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">
+          <img src="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard/blob/main/Images/Time%20Analysis.png" width="100%" alt="AdventureWorks" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
         <img src="https://img.shields.io/badge/Data%20Modeling-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_3">Hospital ER Patient Analytics</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">Hospital ER Patient Analytics</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_3">
-          <img src="IMAGE_LINK_3" width="100%" alt="ER Patients" />
+        <a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">
+          <img src="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard.png" width="100%" alt="ER Patients" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
         <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Healthcare-red?style=flat-square" />
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_4">Call Center Performance</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">Call Center Performance</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_4">
-          <img src="IMAGE_LINK_4" width="100%" alt="Call Center" />
+        <a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">
+          <img src="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard1.png" width="100%" alt="Call Center" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/KPIs-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Call Center-orange?style=flat-square" />
       </div>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_5">Project Management Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">Project Management Dashboard</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_5">
-          <img src="IMAGE_LINK_5" width="100%" alt="Project Management" />
+        <a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">
+          <img src="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard/blob/main/Images/Timeline.png" width="100%" alt="Project Management" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Management-blue?style=flat-square" />
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_6">Sales & Profit Analysis</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">Sales & Profit Analysis</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_6">
-          <img src="IMAGE_LINK_6" width="100%" alt="Sales Profit" />
+        <a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">
+          <img src="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard/blob/main/Dashboard.png" width="100%" alt="Sales Profit" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data%20Viz-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
       </div>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_7">Amazon Logistics (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">Amazon Logistics (ML)</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_7">
-          <img src="IMAGE_LINK_7" width="100%" alt="Amazon Logistics" />
+        <a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">
+          <img src="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard/blob/main/Images/Dashboard.png" width="100%" alt="Amazon Logistics" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
@@ -129,14 +137,15 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="LINK_TO_REPO_8">Sales Data Pipeline</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">Sales Data Pipeline</a></h3>
       <div align="center">
-        <a href="LINK_TO_REPO_8">
-          <img src="IMAGE_LINK_8" width="100%" alt="Sales Pipeline" />
+        <a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">
+          <img src="https://github.com/Engy2003/Sales_Analysis_Excel_Project/blob/main/Sales%20Dashboard.png" width="100%" alt="Sales Pipeline" />
         </a>
         <br>
         <img src="https://img.shields.io/badge/Excel-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20Pivot-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20Query-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sales-green?style=flat-square" />
       </div>
     </td>
   </tr>
