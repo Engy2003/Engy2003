@@ -10,9 +10,7 @@
   <h3>Data Analyst | Business Intelligence Specialist</h3>
 
   <p>
-    A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming complex data into <b>clear, strategic assets</b>.<br>
-    I specialize in empowering businesses to make confident decisions by uncovering hidden trends, optimizing operational efficiency, and driving measurable growth.<br>
-    My focus is on bridging the gap between raw numbers and actionable business strategies to solve real-world challenges.
+A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming complex data into <b>clear, strategic assets</b>.<br> I specialize in empowering businesses to make confident decisions by uncovering hidden trends, optimizing operational efficiency, and driving measurable growth.<br> My focus is on bridging the gap between raw numbers and actionable business strategies to solve real-world challenges.
   </p>
 
   <p>
