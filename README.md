@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/engy-saeed2003/">
-    <img src="https://github.com/Engy2003/Engy2003/blob/main/Icon.png" width="200" alt="Engy Saeed" />
+    <img src="https://github.com/Engy2003/Engy2003/blob/main/Icon.png" width="300" alt="Engy Saeed" />
   </a>
 </div>
 
