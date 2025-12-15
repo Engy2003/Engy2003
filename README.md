@@ -46,7 +46,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">Customer Segmentation (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">💠Customer Segmentation (ML)</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis">
           <img src="https://github.com/Engy2003/Customer_Segmentation_Project-Python_Project-RFMT_CFMT_Analysis/blob/main/RFMT_CFMT_Dashboard_Image.png" height="180" alt="Customer Segmentation" />
@@ -58,7 +58,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">AdventureWorks Sales Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">💠AdventureWorks Sales Dashboard</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard">
           <img src="https://github.com/Engy2003/AdventureWorks_Analysis-Excel_Dashboard/blob/main/Images/Time%20Analysis.png" height="180" alt="AdventureWorks" />
@@ -73,7 +73,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">Hospital ER Patient Analytics</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">💠Hospital ER Patient Analytics</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard">
           <img src="https://github.com/Engy2003/Patients_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard.png" height="180" alt="ER Patients" />
@@ -86,7 +86,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">Call Center Performance</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">💠Call Center Performance</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard">
           <img src="https://github.com/Engy2003/Call_Center_Analysis-PowerBI_Dashboard/blob/main/Images/Dashboard1.png" height="180" alt="Call Center" />
@@ -101,7 +101,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">Project Management Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">💠Project Management Dashboard</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard">
           <img src="https://github.com/Engy2003/Project_Management-PowerBI_Dashboard/blob/main/Images/Timeline.png" height="180" alt="Project Management" />
@@ -114,7 +114,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">Sales & Profit Analysis</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">💠Sales & Profit Analysis</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard">
           <img src="https://github.com/Engy2003/Superstore_-Analysis-PowerBI_Dashboard/blob/main/Dashboard.png" height="180" alt="Sales Profit" />
@@ -129,7 +129,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
   </tr>
     <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">Amazon Logistics (ML)</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">💠Amazon Logistics (ML)</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard">
           <img src="https://github.com/Engy2003/Amazon_Logistics_Sustainability_Analysis-Excel_Dashboard/blob/main/Images/Dashboard.png" height="180" alt="Amazon Logistics" />
@@ -141,7 +141,7 @@ A results-driven Data Analyst (B.S. in Data Science) dedicated to transforming c
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">Sales Data Pipeline</a></h3>
+      <h3 align="center"><a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">💠Sales Data Pipeline</a></h3>
       <div align="center">
         <a href="https://github.com/Engy2003/Sales_Analysis_Excel_Project">
           <img src="https://github.com/Engy2003/Sales_Analysis_Excel_Project/blob/main/Sales%20Dashboard.png" height="180" alt="Sales Pipeline" />
