@@ -5,7 +5,7 @@
 
   <p align="center">
     Data Analyst with a BS in Data Science from Alexandria University. <br>
-    I transform raw data into actionable business insights using <b>Python, SQL, and Power BI</b>.<br>
+    I transform raw data into actionable business insights using <b>Python, SQL, Excel, and Power BI</b>.<br>
     Experienced in building end-to-end data pipelines, interactive dashboards, and ML models.
   </p>
 
