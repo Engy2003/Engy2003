@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# الجزء ده هو اللي بيحل مشكلة 128
+permissions: 
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
