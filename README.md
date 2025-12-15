@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://www.linkedin.com/in/engy-saeed2003/">
+    <img src="https://github.com/Engy2003/Engy2003/blob/main/Icon.png" width="160" alt="Engy Saeed" />
+  </a>
+</div>
+
+<div align="center">
 
   <h1 align="center">Hi there, I'm Engy Saeed 👋</h1>
   <h3 align="center">Data Analyst | Business Intelligence Specialist</h3>
