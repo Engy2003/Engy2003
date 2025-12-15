@@ -1,21 +1,21 @@
 <div align="center">
+
   <a href="https://www.linkedin.com/in/engy-saeed2003/">
-    <img src="https://github.com/Engy2003/Engy2003/blob/main/Icon.png" width="500" alt="Engy Saeed" />
+    <img src="https://github.com/Engy2003/Engy2003/raw/main/Icon.png" width="500" alt="Engy Saeed" />
   </a>
-</div>
 
-<div align="center">
+  <br>
 
-  <h1 align="center">Hi there, I'm Engy Saeed 👋</h1>
-  <h3 align="center">Data Analyst | Business Intelligence Specialist</h3>
+  <h1>Hi there, I'm Engy Saeed 👋</h1>
+  <h3>Data Analyst | Business Intelligence Specialist</h3>
 
-  <p align="center">
+  <p>
     Data Analyst with a BS in Data Science from Alexandria University. <br>
     I transform raw data into actionable business insights using <b>Python, SQL, Excel, and Power BI</b>.<br>
     Experienced in building end-to-end data pipelines, interactive dashboards, and ML models.
   </p>
 
-  <p align="center">
+  <p>
     <a href="mailto:enqysead498@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
